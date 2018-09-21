@@ -56,7 +56,7 @@ app.get('/compare', (req, res) => {
 
     } else {
 
-        res.send(`Invalid request MTFKR`);
+        res.send(`Invalid request`);
 
     }
 
